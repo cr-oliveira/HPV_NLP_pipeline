@@ -1,0 +1,10 @@
+<Pipeline desc="DESCRIPTION:INPUT:OUTPUT:CATEGORY:">
+  <NLPProcessor conf="Sentence detector/DF_Clamp_sentence_detector/"/>
+  <NLPProcessor conf="Tokenizer/DF_Clamp_tokenizer/"/>
+  <NLPProcessor conf="POS tagger/DF_OpenNLP_POS_tagger/"/>
+  <NLPProcessor conf="Section identifier/DF_Dictionary_based_section_identifier/"/>
+  <NLPProcessor conf="Named entity recogizer/DF_Dictionary_lookup/"/>
+  <NLPProcessor conf="Assertion classifier/DF_NegEx_assertion/"/>
+  <NLPProcessor conf="Ruta rule engine/DF_Ruta_script_file/"/>
+  <NLPProcessor conf="User Defined Components/DF_Relation_connector_after_ruta/"/>
+</Pipeline>

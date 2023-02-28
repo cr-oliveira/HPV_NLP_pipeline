@@ -1,0 +1,313 @@
+Pap	PapMarker
+Smear	PapMarker
+Surepath	PapMarker
+history of	History
+Anal	AnalMarker
+Anus	AnalMarker
+history	History
+Prior	History
+Previous	Previous
+Vulva	NotDiagnosis
+Vaginal	NotDiagnosis
+primary diagnosis	Diagnosis
+diagnosis	Diagnosis
+Endocervix	Location
+Curettage	Curettage
+Curettings	Curettage
+Excision	Specimen
+biopsy	Specimen
+endocervix curettage	Specimen
+endocervical curettage	Specimen
+Cytologic material	Specimen
+Cervix	Specimen
+Thin prep pap	Specimen
+Below cutoff	HPVNegative
+negative for one or more high-risk hpv types	HPVNegative
+Hpv negative	HPVNegative
+Above cutoff	HPVPositive
+Hpv positive	HPVPositive
+HPV	HPV
+Positive	Positive
+Negative	Negative
+No significant abnormality	Benign
+Benign	Benign
+Without significant abnormality	Benign
+Squamous metaplasia	Benign
+Endocervical polyp	Benign
+Endometrial polyp	Benign
+HPV related changes	Benign
+Chronic cervicitis	Benign
+Nabothian cyst	Benign
+Cervical polyp	Benign
+Cervical polyp with microglandular hyperplasia	Benign
+Genital warts	Benign
+Condyloma	Benign
+Benign	Benign
+No significant abnormality	Benign
+Fibroepithelial polyp	Benign
+Chronic inflammation	Benign
+Pseudoepitheliomatous hyperplasia	Benign
+Epithelial hyperplasia	Benign
+without significant pathology	Benign
+fragments of squamous epithelium	Benign
+NIEL 	NIEL
+Negative for intraepithelial lesions	NIEL
+NEGATIVE FOR SQUAMOUS INTRAEPITHELIAL LESION	NIEL
+Negative for dysplastic cells	NIEL
+Negative for dysplastic or malignant cells	NIEL
+Negative for dysplasia	NIEL
+Negative for malignant cells	NIEL
+Negative for malignancy	NIEL
+ASC-H	ASCH
+Atypical squamous cells cannot exclude a high grade lesion	ASCH
+Atypical squamous cells cannot exclude high grade lesion	ASCH
+Atypical squamous cells of undetermined significance, cannot exclude a high grade lesion	ASCH
+atypical squamous cells of undetermined significance, cannot exclude high grade squamous intraepithelial lesion	ASCH
+Atypical squamous cells of undetermined significance cannot exclude a high grade lesion	ASCH
+Atypical squamous cells of undetermined significance cannot exclude high grade lesion	ASCH
+atypical squamous cells of undetermined significance cannot exclude high grade squamous intraepithelial lesion	ASCH
+ASC-H	ASCH
+Atypical squamous cells cannot exclude a high grade lesion	ASCH
+Atypical squamous cells of undetermined significance, cannot exclude a high grade lesion	ASCH
+ASC-US	ASCUS
+Atypical squamous cells of undetermined significance	ASCUS
+Abnormal squamous cells of undetermined significance	ASCUS
+Rare Atypical squamous cells of undetermined significance	ASCUS
+Rare Abnormal squamous cells of undetermined significance	ASCUS
+ASCUS	ASCUS
+Atypical squamous cells of undetermined significance	ASCUS
+Abnormal squamous cells of undetermined significance	ASCUS
+LSIL	LSIL
+Low grade squamous intraepithelial lesion	LSIL
+Low grade intraepithelial lesion	LSIL
+Low grade squamous intraepithelial lesion	LSIL
+Low grade intraepithelial lesion	LSIL
+HSIL	HSIL
+High grade squamous intraepithelial lesion	HSIL
+High grade intraepithelial lesion	HSIL
+High grade intraepithelial lesion	HSIL
+SCC	SCC
+Squamous cell carcinoma	SCC
+Squamous carcinoma	SCC
+Squamous cell carcinoma	SCC
+Squamous carcinoma	SCC
+CIN1	IN1
+CIN 1	IN1
+CIN I	IN1
+Intraepithelial neoplasm grade 1	IN1
+Intraepithelial neoplasm 1	IN1
+Intraepithelial neoplasia grade 1	IN1
+Intraepithelial neoplasia 1	IN1
+Intraepithelial Lesion grade 1	IN1
+Intraepithelial Lesion 1	IN1
+Cervical Intraepithelial neoplasm grade 1	IN1
+Cervical Intraepithelial neoplasm 1	IN1
+Cervical Intraepithelial neoplasia grade 1	IN1
+CervicalIntraepithelial neoplasia 1	IN1
+Cervical Intraepithelial Lesion grade 1	IN1
+Cervical Intraepithelial Lesion 1	IN1
+CIN1	IN1
+Intraepithelial neoplasm grade 1	IN1
+Intraepithelial Lesion grade 1	IN1
+CIN1	IN1
+CINi	IN1
+Cervical intraepithelial lesion 1	IN1
+Cervical intraepithelial lesion I	IN1
+Cervical intraepithelial neoplasia 1	IN1
+Cervical intraepithelial neoplasia I	IN1
+Mild cervical dysplasia	IN1
+Squamous intraepithelial dysplasia 1	IN1
+AIN 1	IN1
+AIN I	IN1
+AIN1	IN1
+AINi	IN1
+ANAL INTRAEPITHELIAL NEOPLASIA I	IN1
+Anal intraepithelial neoplasia 1	IN1
+Anal intreepithelial lesion 1	IN1
+High-grade squamous intraepithelial lesion 1	IN1
+CIN2	IN2
+CINII	IN2
+CIN 2	IN2
+CIN II	IN2
+Intraepithelial neoplasm grade 2	IN2
+Intraepithelial neoplasm 2	IN2
+Intraepithelial neoplasia grade 2	IN2
+Intraepithelial neoplasia 2	IN2
+Intraepithelial Lesion grade 2	IN2
+Intraepithelial Lesion 2	IN2
+Cervical Intraepithelial neoplasm grade 2	IN2
+Cervical Intraepithelial neoplasm 2	IN2
+Cervical Intraepithelial neoplasia grade 2	IN2
+CervicalIntraepithelial neoplasia 2	IN2
+Cervical Intraepithelial Lesion grade 2	IN2
+Cervical Intraepithelial Lesion 2	IN2
+CIN2	IN2
+Intraepithelial Lesion grade 2	IN2
+Intraepithelial neoplasm grade 2	IN2
+CIN2	IN2
+CINii	IN2
+Cervical intraepithelial lesion 2	IN2
+Cervical intraepithelial lesion ii	IN2
+Cervical intraepithelial neoplasia 2	IN2
+Cervical intraepithelial neoplasia II	IN2
+Moderate cervical dysplasia	IN2
+Squamous intraepithelial dysplasia 2	IN2
+AIN 2	IN2
+AIN ii	IN2
+AIN2	IN2
+AINii	IN2
+Anal intraepithelial neoplasia 2	IN2
+Anal intreepithelial lesion 2	IN2
+High-grade squamous intraepithelial lesion 2	IN2
+CIN2/3	IN23
+CINII/III	IN23
+CIN 2/3	IN23
+CIN II/III	IN23
+Intraepithelial neoplasm grade 2-3	IN23
+Intraepithelial neoplasm 2-3	IN23
+Intraepithelial neoplasia grade 2-3	IN23
+Intraepithelial neoplasia 2-3	IN23
+Intraepithelial Lesion grade 2-3	IN23
+Intraepithelial Lesion 2-3	IN23
+Cervical Intraepithelial neoplasm grade 2-3	IN23
+Cervical Intraepithelial neoplasm 2-3	IN23
+Cervical Intraepithelial neoplasia grade 2-3	IN23
+Cervical Intraepithelial neoplasia 2-3	IN23
+Cervical Intraepithelial Lesion grade 2-3	IN23
+Cervical Intraepithelial Lesion 2-3	IN23
+CIN2-3	IN23
+CINII-III	IN23
+CIN 2-3	IN23
+CIN II-III	IN23
+Intraepithelial neoplasm grade 2/3	IN23
+Intraepithelial neoplasm 2/3	IN23
+Intraepithelial neoplasia grade 2/3	IN23
+Intraepithelial neoplasia 2/3	IN23
+Intraepithelial Lesion grade 2/3	IN23
+Intraepithelial Lesion 2/3	IN23
+Cervical Intraepithelial neoplasm grade 2/3	IN23
+Cervical Intraepithelial neoplasm 2/3	IN23
+Cervical Intraepithelial neoplasia grade 2/3	IN23
+Cervical Intraepithelial neoplasia 2/3	IN23
+Cervical Intraepithelial Lesion grade 2/3	IN23
+Cervical Intraepithelial Lesion 2/3	IN23
+CIN2 to 3	IN23
+CINII to III	IN23
+CIN 2 to 3	IN23
+CIN II to III	IN23
+Intraepithelial neoplasm grade 2 to 3	IN23
+Intraepithelial neoplasm 2 to 3	IN23
+Intraepithelial neoplasia grade 2 to 3	IN23
+Intraepithelial neoplasia 2 to 3	IN23
+Intraepithelial Lesion grade 2 to 3	IN23
+Intraepithelial Lesion 2 to 3	IN23
+Cervical Intraepithelial neoplasm grade 2 to 3	IN23
+Cervical Intraepithelial neoplasm 2 to 3	IN23
+Cervical Intraepithelial neoplasia grade 2 to 3	IN23
+Cervical Intraepithelial neoplasia 2 to 3	IN23
+Cervical Intraepithelial Lesion grade 2 to 3	IN23
+Cervical Intraepithelial Lesion 2 to 3	IN23
+CIN2/3	IN23
+Intraepithelial neoplasm grade 2-3	IN23
+Intraepithelial Lesion grade 2-3	IN23
+CIN2-3	IN23
+CINii-iii	IN23
+CIN 2 to 3	IN23
+Cervical intraepithelial lesion 2-3	IN23
+Cervical intraepithelial lesion ii-iii	IN23
+Cervical intraepithelial neoplasia 2-3	IN23
+Cervical intraepithelial neoplasia ii-iii	IN23
+Mild cervical dysplasia	IN23
+Squamous intraepithelial dysplasia 2-3	IN23
+HGSIL	IN23
+HSIL	IN23
+High-grade squamous dysplasia	IN23
+High-grade squamous intraepithelial lesion	IN23
+High-grade squamous intraepithelial neoplasm	IN23
+High-grade squamous lesions	IN23
+High-grade squamous neoplasm	IN23
+Advanced dysplasia	IN23
+Dysplastic squamous epithelium favor high-grade dysplasia	IN23
+High-grade dysplasia	IN23
+High-grade dysplastic epithelium	IN23
+Moderate to severe dysplasia	IN23
+AIN 2-3	IN23
+AIN ii-iii	IN23
+AIN2-3	IN23
+AINii-iii	IN23
+Anal intraepithelial neoplasia 2-3	IN23
+Anal intreepithelial lesion 2-3	IN23
+High-grade squamous intraepithelial lesion 2-3	IN23
+CIN3	IN3
+CINIII	IN3
+CIN 3	IN3
+CIN III	IN3
+Intraepithelial neoplasm grade 3	IN3
+Intraepithelial neoplasm 3	IN3
+Intraepithelial neoplasia grade 3	IN3
+Intraepithelial neoplasia 3	IN3
+Intraepithelial Lesion grade 3	IN3
+Intraepithelial Lesion 3	IN3
+Cervical Intraepithelial neoplasm grade 3	IN3
+Cervical Intraepithelial neoplasm 3	IN3
+Cervical Intraepithelial neoplasia grade 3	IN3
+CervicalIntraepithelial neoplasia 3	IN3
+Cervical Intraepithelial Lesion grade 3	IN3
+Cervical Intraepithelial Lesion 3	IN3
+CIN3	IN3
+Intraepithelial neoplasm grade 3	IN3
+Intraepithelial Lesion grade 3	IN3
+CIN3	IN3
+CINiii	IN3
+Cervical intraepithelial lesion 3	IN3
+Cervical intraepithelial lesion iii	IN3
+Cervical intraepithelial neoplasia 3	IN3
+Cervical intraepithelial neoplasia iii	IN3
+Severe cervical dysplasia	IN3
+Squamous intraepithelial dysplasia 3	IN3
+Severe Dysplasia of cervix	IN3
+Severe squamous cell dysplasia	IN3
+Severely dysplastic	IN3
+Severe squamous epithelial neoplasia	IN3
+Intraepithelial cell carcinoma	IN3
+Intraepithelial neoplasia, grade 3	IN3
+Carcinoma in situ of cervix uteri	IN3
+Carcinoma in situ (CIS)	IN3
+Focally severe dysplasia	IN3
+AIN 3	IN3
+AIN iii	IN3
+AIN3	IN3
+AINiii	IN3
+Anal intraepithelial neoplasia 3	IN3
+Anal intreepithelial lesion 3	IN3
+High-grade squamous intraepithelial lesion 3	IN3
+Adenocarcinoma	AIS
+AIS	AIS
+Adenocarcinoma in situ	AIS
+Adenocarcinoma in situ of cervix	AIS
+Cervical intraepithelial glandular neoplasia	AIS
+Glandular dysplasia	AIS
+Cribriform carcinoma in situ	AIS
+Adenocarcinoma in situ villous adenoma	AIS
+Adenocarcinoma in situ tubulovillous adenoma	AIS
+Satisfactory	SAT
+Unsatisfactory	UNSAT
+Inadequate	UNSAT
+Insufficient	UNSAT
+Atypical Glandular Cells	AGC
+Atypical Endocervical/Endometrial Cells	AEC
+Atypical Endocervical Cells	AEC
+Atypical Endometrial Cells	AEC
+Atypical endocervical cells of undetermined significance	AEC
+Uncategorizable specimen	UNCAT
+atypical squamous cells	ASCUS1
+undetermined significance	ASCUS2
+Suggestive of	Downgrade
+Suspicion of	Downgrade
+Highly suspicious for	Downgrade
+Possible	Downgrade
+Favors	Downgrade
+Bordering	Downgrade
+Concerning for	Downgrade
+Approaching	Downgrade
+Suspicious for	Downgrade

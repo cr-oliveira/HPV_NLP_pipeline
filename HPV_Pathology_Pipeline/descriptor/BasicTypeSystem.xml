@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one
+  or more contributor license agreements.  See the NOTICE file
+  distributed with this work for additional information
+  regarding copyright ownership.  The ASF licenses this file
+  to you under the Apache License, Version 2.0 (the
+  "License"); you may not use this file except in compliance
+  with the License.  You may obtain a copy of the License at
+  
+  http://www.apache.org/licenses/LICENSE-2.0
+  
+  Unless required by applicable law or agreed to in writing,
+  software distributed under the License is distributed on an
+  "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  KIND, either express or implied.  See the License for the
+  specific language governing permissions and limitations
+  under the License.
+-->
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>BasicTypeSystem</name>
+  <description/>
+  <version>1.0</version>
+  <vendor/>
+  <imports>
+    <import location="InternalTypeSystem.xml"/>
+    <import location="ClampTypeSystem.xml"/>
+  </imports>
+  <types>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.ALL</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.TokenSeed</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.ANY</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.ALL</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.MARKUP</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.ALL</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.CW</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.W</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.W</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.ANY</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.SW</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.W</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.PM</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.ANY</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.CAP</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.W</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.COLON</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.PM</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.PERIOD</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.SENTENCEEND</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.SENTENCEEND</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.PM</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.QUESTION</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.SENTENCEEND</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.COMMA</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.PM</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.EXCLAMATION</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.SENTENCEEND</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.SEMICOLON</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.PM</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.WS</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.ANY</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.NUM</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.ANY</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.SPECIAL</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.ANY</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.NBSP</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.SPACE</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.AMP</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.ANY</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.SPACE</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.WS</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.BREAK</name>
+      <description/>
+      <supertypeName>org.apache.uima.ruta.type.WS</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.Document</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>org.apache.uima.ruta.type.TokenSeed</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+    </typeDescription>
+    <typeDescription>
+		<name>edu.uth.clamp.nlp.typesystem.ClampNameEntityUIMA</name>
+		<description/>
+		<supertypeName>uima.tcas.Annotation</supertypeName>
+		<features>
+			<featureDescription>
+				<name>semanticTag</name>
+				<description>semantic type of this ne</description>
+				<rangeTypeName>uima.cas.String</rangeTypeName>
+			</featureDescription>
+			<featureDescription>
+				<name>assertion</name>
+				<description>assertion info of this ne</description>
+				<rangeTypeName>uima.cas.String</rangeTypeName>
+			</featureDescription>
+			<featureDescription>
+				<name>cui</name>
+				<description>umls cui of this ne</description>
+				<rangeTypeName>uima.cas.String</rangeTypeName>
+			</featureDescription>
+			<featureDescription>
+				<name>attribute</name>
+				<description>attributes in json</description>
+				<rangeTypeName>uima.cas.String</rangeTypeName>
+			</featureDescription>
+		</features>
+	</typeDescription>
+	<typeDescription>
+      <name>org.apache.ctakes.typesystem.type.textspan.Segment</name>
+      <description>A section of a clinical text, e.g., Diagnosis, Current Medications, Problem List.  Different segments often have differing sublanguages and clinical relevance.     
+Equivalent to cTAKES: edu.mayo.bmi.uima.core.type.Segment</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>id</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>preferredText</name>
+          <description>preferredText is the normalized/resolved section name.  Normally, this is populated by the Sectionizer and would contain the HL7/CCDA section name.</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+
+  </types>
+</typeSystemDescription>

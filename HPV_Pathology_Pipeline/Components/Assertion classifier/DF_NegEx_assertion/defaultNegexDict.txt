@@ -1,0 +1,240 @@
+no increase	pseNegPhrases
+no change	pseNegPhrases
+no suspicious change	pseNegPhrases
+no significant change	pseNegPhrases
+no interval change	pseNegPhrases
+no definite change	pseNegPhrases
+not extend	pseNegPhrases
+not cause	pseNegPhrases
+not drain	pseNegPhrases
+not significant interval change	pseNegPhrases
+not certain if	pseNegPhrases
+not certain whether	pseNegPhrases
+gram negative	pseNegPhrases
+without difficulty	pseNegPhrases
+not necessarily	pseNegPhrases
+not only	pseNegPhrases
+absence of	negPhrases
+cannot see	negPhrases
+cannot	negPhrases
+checked for	negPhrases
+declined	negPhrases
+declines	negPhrases
+denied	negPhrases
+denies	negPhrases
+denying	negPhrases
+evaluate for	negPhrases
+fails to reveal	negPhrases
+free of	negPhrases
+negative for	negPhrases
+never developed	negPhrases
+never had	negPhrases
+no	negPhrases
+no abnormal	negPhrases
+no cause of	negPhrases
+no complaints of	negPhrases
+no evidence	negPhrases
+no new evidence	negPhrases
+no other evidence	negPhrases
+no evidence to suggest	negPhrases
+no findings of	negPhrases
+no findings to indicate	negPhrases
+no mammographic evidence of	negPhrases
+no new	negPhrases
+no radiographic evidence of	negPhrases
+no sign of	negPhrases
+no significant	negPhrases
+no signs of	negPhrases
+no suggestion of	negPhrases
+no suspicious	negPhrases
+not	negPhrases
+not appear	negPhrases
+not appreciate	negPhrases
+not associated with	negPhrases
+not complain of	negPhrases
+not demonstrate	negPhrases
+not exhibit	negPhrases
+not feel	negPhrases
+not had	negPhrases
+not have	negPhrases
+not know of	negPhrases
+not known to have	negPhrases
+not reveal	negPhrases
+not see	negPhrases
+not to be	negPhrases
+patient was not	negPhrases
+rather than	negPhrases
+resolved	negPhrases
+test for	negPhrases
+to exclude	negPhrases
+unremarkable for	negPhrases
+with no	negPhrases
+without any evidence of	negPhrases
+without evidence	negPhrases
+without indication of	negPhrases
+without sign of	negPhrases
+without	negPhrases
+rule out for	negPhrases
+rule him out for	negPhrases
+rule her out for	negPhrases
+rule the patient out for	negPhrases
+rule him out	negPhrases
+rule her out	negPhrases
+rule out	negPhrases
+r o	negPhrases
+w o	negPhrases
+rule the patient out	negPhrases
+rules out	negPhrases
+rules him out	negPhrases
+rules her out	negPhrases
+ruled the patient out for	negPhrases
+rules the patient out	negPhrases
+ruled him out against	negPhrases
+ruled her out against	negPhrases
+ruled him out	negPhrases
+ruled her out	negPhrases
+ruled out against	negPhrases
+ruled the patient out against	negPhrases
+did rule out for	negPhrases
+did rule out against	negPhrases
+did rule out	negPhrases
+did rule him out for	negPhrases
+did rule him out against	negPhrases
+did rule him out	negPhrases
+did rule her out for	negPhrases
+did rule her out against	negPhrases
+did rule her out	negPhrases
+did rule the patient out against	negPhrases
+did rule the patient out for	negPhrases
+did rule the patient out	negPhrases
+can rule out for	negPhrases
+can rule out against	negPhrases
+can rule out	negPhrases
+can rule him out for	negPhrases
+can rule him out against	negPhrases
+can rule him out	negPhrases
+can rule her out for	negPhrases
+can rule her out against	negPhrases
+can rule her out	negPhrases
+can rule the patient out for	negPhrases
+can rule the patient out against	negPhrases
+can rule the patient out	negPhrases
+adequate to rule out for	negPhrases
+adequate to rule out	negPhrases
+adequate to rule him out for	negPhrases
+adequate to rule him out	negPhrases
+adequate to rule her out for	negPhrases
+adequate to rule her out	negPhrases
+adequate to rule the patient out for	negPhrases
+adequate to rule the patient out against	negPhrases
+adequate to rule the patient out	negPhrases
+sufficient to rule out for	negPhrases
+sufficient to rule out against	negPhrases
+sufficient to rule out	negPhrases
+sufficient to rule him out for	negPhrases
+sufficient to rule him out against	negPhrases
+sufficient to rule him out	negPhrases
+sufficient to rule her out for	negPhrases
+sufficient to rule her out against	negPhrases
+sufficient to rule her out	negPhrases
+sufficient to rule the patient out for	negPhrases
+sufficient to rule the patient out against	negPhrases
+sufficient to rule the patient out	negPhrases
+what must be ruled out is	negPhrases
+should be ruled out for	postNegPhrases
+ought to be ruled out for	postNegPhrases
+may be ruled out for	postNegPhrases
+might be ruled out for	postNegPhrases
+could be ruled out for	postNegPhrases
+will be ruled out for	postNegPhrases
+can be ruled out for	postNegPhrases
+must be ruled out for	postNegPhrases
+is to be ruled out for	postNegPhrases
+be ruled out for	postNegPhrases
+unlikely	postNegPhrases
+free	postNegPhrases
+was ruled out	postNegPhrases
+is ruled out	postNegPhrases
+are ruled out	postNegPhrases
+have been ruled out	postNegPhrases
+has been ruled out	postNegPhrases
+being ruled out	postNegPhrases
+should be ruled out	postNegPhrases
+ought to be ruled out	postNegPhrases
+may be ruled out	postNegPhrases
+might be ruled out	postNegPhrases
+could be ruled out	postNegPhrases
+will be ruled out	postNegPhrases
+can be ruled out	postNegPhrases
+must be ruled out	postNegPhrases
+is to be ruled out	postNegPhrases
+be ruled out	postNegPhrases
+but	conjunctions
+however	conjunctions
+nevertheless	conjunctions
+yet	conjunctions
+though	conjunctions
+although	conjunctions
+still	conjunctions
+aside from	conjunctions
+except	conjunctions
+apart from	conjunctions
+secondary to	conjunctions
+as the cause of	conjunctions
+as the source of	conjunctions
+as the reason of	conjunctions
+as the etiology of	conjunctions
+as the origin of	conjunctions
+as the cause for	conjunctions
+as the source for	conjunctions
+as the reason for	conjunctions
+as the etiology for	conjunctions
+as the origin for	conjunctions
+as the secondary cause of	conjunctions
+as the secondary source of	conjunctions
+as the secondary reason of	conjunctions
+as the secondary etiology of	conjunctions
+as the secondary origin of	conjunctions
+as the secondary cause for	conjunctions
+as the secondary source for	conjunctions
+as the secondary reason for	conjunctions
+as the secondary etiology for	conjunctions
+as the secondary origin for	conjunctions
+as a cause of	conjunctions
+as a source of	conjunctions
+as a reason of	conjunctions
+as a etiology of	conjunctions
+as a cause for	conjunctions
+as a source for	conjunctions
+as a reason for	conjunctions
+as a etiology for	conjunctions
+as a secondary cause of	conjunctions
+as a secondary source of	conjunctions
+as a secondary reason of	conjunctions
+as a secondary etiology of	conjunctions
+as a secondary origin of	conjunctions
+as a secondary cause for	conjunctions
+as a secondary source for	conjunctions
+as a secondary reason for	conjunctions
+as a secondary etiology for	conjunctions
+as a secondary origin for	conjunctions
+cause of	conjunctions
+cause for	conjunctions
+causes of	conjunctions
+causes for	conjunctions
+source of	conjunctions
+source for	conjunctions
+sources of	conjunctions
+sources for	conjunctions
+reason of	conjunctions
+reason for	conjunctions
+reasons of	conjunctions
+reasons for	conjunctions
+etiology of	conjunctions
+etiology for	conjunctions
+trigger event for	conjunctions
+origin of	conjunctions
+origin for	conjunctions
+origins of	conjunctions
+origins for	conjunctions
+other possibilities of	conjunctions
